@@ -59,7 +59,7 @@ String _updatedTime="";
 // time zone
 int zone = 1;
 String town = "Newbury";
-String myAPI = "REDACTED_OPENWEATHERMAP_KEY";
+String myAPI = OPENWEATHERMAP_API_KEY;
 String units = "metric"; //  metric, imperial
 // #################### end of edits ###################
 

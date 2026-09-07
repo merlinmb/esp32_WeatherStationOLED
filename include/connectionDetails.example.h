@@ -12,6 +12,8 @@ const char* WIFIPASSWORD = "myWiFiPassword";
 #define OTA_UPDATE_USERNAME "admin"
 #define OTA_UPDATE_PASSWORD "xxx"
 
+const char* OPENWEATHERMAP_API_KEY = "your-openweathermap-api-key";
+
 int MQTT_MAX_PACKET_SIZE = 256;
 const char* MQTT_SERVERADDRESS = "192.168.1.55"; //IP address of the MQTT broker
 const char* MQTT_CLIENTNAME = "espMonitor"; //name of the device in MQTT
